@@ -1,0 +1,37 @@
+{
+  "1": {
+    "product_id": "1",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse",
+    "supplier_id": "SUP001",
+    "unit_price": 799.00
+  },
+  "2": {
+    "product_id": "2",
+    "name": "Keyboard",
+    "description": "Mechanical keyboard",
+    "supplier_id": "SUP001",
+    "unit_price": 1499.00
+  },
+  "3": {
+    "product_id": "3",
+    "name": "USB Cable",
+    "description": "Type-C USB cable",
+    "supplier_id": "SUP002",
+    "unit_price": 299.00
+  },
+  "4": {
+    "product_id": "4",
+    "name": "Laptop Stand",
+    "description": "Adjustable aluminum stand",
+    "supplier_id": "SUP003",
+    "unit_price": 1999.00
+  },
+  "5": {
+    "product_id": "5",
+    "name": "Webcam",
+    "description": "HD USB webcam",
+    "supplier_id": "SUP004",
+    "unit_price": 3499.00
+  }
+}

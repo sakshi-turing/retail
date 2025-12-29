@@ -1,0 +1,57 @@
+{
+  "1": {
+    "user_id": "1",
+    "first_name": "Amit",
+    "last_name": "Sharma",
+    "email": "amit@gmail.com",
+    "address": "101 Green Street",
+    "city": "Delhi",
+    "state": "DL",
+    "zip_code": "110002",
+    "country": "India"
+  },
+  "2": {
+    "user_id": "2",
+    "first_name": "Sarah",
+    "last_name": "Lee",
+    "email": "sarah@gmail.com",
+    "address": "22 Main Road",
+    "city": "New York",
+    "state": "NY",
+    "zip_code": "10001",
+    "country": "USA"
+  },
+  "3": {
+    "user_id": "3",
+    "first_name": "Rahul",
+    "last_name": "Verma",
+    "email": "rahul@gmail.com",
+    "address": "44 MG Road",
+    "city": "Pune",
+    "state": "MH",
+    "zip_code": "411001",
+    "country": "India"
+  },
+  "4": {
+    "user_id": "4",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john@gmail.com",
+    "address": "77 King Street",
+    "city": "London",
+    "state": "LDN",
+    "zip_code": "EC2A",
+    "country": "UK"
+  },
+  "5": {
+    "user_id": "5",
+    "first_name": "Neha",
+    "last_name": "Kapoor",
+    "email": "neha@gmail.com",
+    "address": "55 Park Avenue",
+    "city": "Chandigarh",
+    "state": "CH",
+    "zip_code": "160017",
+    "country": "India"
+  }
+}

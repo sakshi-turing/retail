@@ -1,0 +1,32 @@
+{
+  "1": {
+    "purchase_order_id": "1",
+    "supplier_id": "SUP001",
+    "order_date": "2024-01-10",
+    "status": "CREATED"
+  },
+  "2": {
+    "purchase_order_id": "2",
+    "supplier_id": "SUP002",
+    "order_date": "2024-01-12",
+    "status": "RECEIVED"
+  },
+  "3": {
+    "purchase_order_id": "3",
+    "supplier_id": "SUP003",
+    "order_date": "2024-01-15",
+    "status": "CREATED"
+  },
+  "4": {
+    "purchase_order_id": "4",
+    "supplier_id": "SUP004",
+    "order_date": "2024-01-18",
+    "status": "CREATED"
+  },
+  "5": {
+    "purchase_order_id": "5",
+    "supplier_id": "SUP005",
+    "order_date": "2024-01-20",
+    "status": "RECEIVED"
+  }
+}

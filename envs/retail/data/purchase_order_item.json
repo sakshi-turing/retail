@@ -1,0 +1,37 @@
+{
+  "1": {
+    "po_item_id": "1",
+    "purchase_order_id": "PO001",
+    "product_id": "PROD001",
+    "quantity": 10,
+    "unit_cost": 600.00
+  },
+  "2": {
+    "po_item_id": "2",
+    "purchase_order_id": "PO001",
+    "product_id": "PROD002",
+    "quantity": 5,
+    "unit_cost": 1200.00
+  },
+  "3": {
+    "po_item_id": "3",
+    "purchase_order_id": "PO002",
+    "product_id": "PROD003",
+    "quantity": 20,
+    "unit_cost": 200.00
+  },
+  "4": {
+    "po_item_id": "4",
+    "purchase_order_id": "PO003",
+    "product_id": "PROD004",
+    "quantity": 8,
+    "unit_cost": 1500.00
+  },
+  "5": {
+    "po_item_id": "5",
+    "purchase_order_id": "PO004",
+    "product_id": "PROD005",
+    "quantity": 6,
+    "unit_cost": 3000.00
+  }
+}

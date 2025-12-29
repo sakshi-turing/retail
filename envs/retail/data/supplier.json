@@ -1,0 +1,52 @@
+{
+  "1": {
+    "supplier_id": "1",
+    "name": "ABC Traders",
+    "contact_email": "abc@traders.com",
+    "address": "12 Market Road",
+    "city": "Delhi",
+    "state": "DL",
+    "zip_code": "110001",
+    "country": "India"
+  },
+  "2": {
+    "supplier_id": "2",
+    "name": "Global Imports",
+    "contact_email": "global@imports.com",
+    "address": "45 Harbor Street",
+    "city": "Mumbai",
+    "state": "MH",
+    "zip_code": "400001",
+    "country": "India"
+  },
+  "3": {
+    "supplier_id": "3",
+    "name": "Fast Supply",
+    "contact_email": "fast@supply.com",
+    "address": "78 Industrial Area",
+    "city": "Bengaluru",
+    "state": "KA",
+    "zip_code": "560001",
+    "country": "India"
+  },
+  "4": {
+    "supplier_id": "4",
+    "name": "Retail Goods Ltd",
+    "contact_email": "contact@retailgoods.com",
+    "address": "22 Baker Street",
+    "city": "London",
+    "state": "LDN",
+    "zip_code": "EC1A",
+    "country": "UK"
+  },
+  "5": {
+    "supplier_id": "5",
+    "name": "Asia Wholesale",
+    "contact_email": "asia@wholesale.com",
+    "address": "99 Orchard Road",
+    "city": "Singapore",
+    "state": "SG",
+    "zip_code": "238839",
+    "country": "Singapore"
+  }
+}

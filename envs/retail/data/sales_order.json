@@ -1,0 +1,42 @@
+{
+  "1": {
+    "sales_order_id": "1",
+    "user_id": "1",
+    "order_date": "2024-02-01",
+    "status": "PLACED",
+    "payment_method": "CARD",
+    "cancel_reason": null
+  },
+  "2": {
+    "sales_order_id": "2",
+    "user_id": "2",
+    "order_date": "2024-02-02",
+    "status": "SHIPPED",
+    "payment_method": "UPI",
+    "cancel_reason": null
+  },
+  "3": {
+    "sales_order_id": "3",
+    "user_id": "3",
+    "order_date": "2024-02-03",
+    "status": "CANCELLED",
+    "payment_method": "CARD",
+    "cancel_reason": "User request"
+  },
+  "4": {
+    "sales_order_id": "4",
+    "user_id": "4",
+    "order_date": "2024-02-04",
+    "status": "PLACED",
+    "payment_method": "COD",
+    "cancel_reason": null
+  },
+  "5": {
+    "sales_order_id": "5",
+    "user_id": "5",
+    "order_date": "2024-02-05",
+    "status": "PLACED",
+    "payment_method": "CARD",
+    "cancel_reason": null
+  }
+}
